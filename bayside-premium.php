@@ -1,4 +1,4 @@
-<?php
+ああああ<?php
 /*
 Template Name: Bayside Premium
 */

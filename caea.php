@@ -166,35 +166,35 @@ $school_name ="CEBU AMERICAN ENGLISH ACADEMY";
 
 			<tr class="">
 				<td>１人部屋</td>
-				<td>74,000</td>
-				<td>96,000</td>
-				<td>157,000</td>
-				<td>309,000</td>
-				<td>461,000</td>
-				<td>613,000</td>
-				<td>917,000</td>
+				<td>89,000</td>
+				<td>169,000</td>
+				<td>276,000</td>
+				<td>540,000</td>
+				<td>792,000</td>
+				<td>1,032,000</td>
+				<td>1,488,000</td>
 			</tr>
 
 			<tr class="active">
 				<td>２人部屋</td>
-				<td>74,000</td>
-				<td>96,000</td>
-				<td>157,000</td>
-				<td>309,000</td>
-				<td>461,000</td>
-				<td>613,000</td>
-				<td>917,000</td>
+				<td>82,000</td>
+				<td>155,000</td>
+				<td>248,000</td>
+				<td>484,000</td>
+				<td>708,000</td>
+				<td>920,000</td>
+				<td>1,320,000</td>
 			</tr>
 
 			<tr class="">
-				<td>３人部屋</td>
-				<td>74,000</td>
-				<td>96,000</td>
-				<td>157,000</td>
-				<td>309,000</td>
-				<td>461,000</td>
-				<td>613,000</td>
-				<td>917,000</td>
+				<td>エコノミー</td>
+				<td>86,500</td>
+				<td>164,000</td>
+				<td>266,000</td>
+				<td>520,000</td>
+				<td>762,000</td>
+				<td>992,000</td>
+				<td>1,428,000</td>
 			</tr>
 		</tbody>
 	</table>
@@ -218,41 +218,41 @@ $school_name ="CEBU AMERICAN ENGLISH ACADEMY";
 
 			<tr class="">
 				<td>１人部屋</td>
-				<td>74,000</td>
-				<td>96,000</td>
-				<td>157,000</td>
-				<td>309,000</td>
-				<td>461,000</td>
-				<td>613,000</td>
-				<td>917,000</td>
+				<td>86,000</td>
+				<td>163,000</td>
+				<td>264,000</td>
+				<td>516,000</td>
+				<td>756,000</td>
+				<td>984,000</td>
+				<td>1,416,000</td>
 			</tr>
 
 			<tr class="active">
 				<td>２人部屋</td>
-				<td>74,000</td>
-				<td>96,000</td>
-				<td>157,000</td>
-				<td>309,000</td>
-				<td>461,000</td>
-				<td>613,000</td>
-				<td>917,000</td>
+				<td>79,000</td>
+				<td>149,000</td>
+				<td>236,000</td>
+				<td>460,000</td>
+				<td>672,000</td>
+				<td>872,000</td>
+				<td>1,248,000</td>
 			</tr>
 
 			<tr class="">
-				<td>３人部屋</td>
-				<td>74,000</td>
-				<td>96,000</td>
-				<td>157,000</td>
-				<td>309,000</td>
-				<td>461,000</td>
-				<td>613,000</td>
-				<td>917,000</td>
+				<td>エコノミー</td>
+				<td>83,500</td>
+				<td>158,000</td>
+				<td>254,000</td>
+				<td>496,000</td>
+				<td>726,000</td>
+				<td>944,000</td>
+				<td>1,356,000</td>
 			</tr>
 		</tbody>
 	</table>
 </div>
 
-					<h3 class="top30 point"><i class="fa fa-check-circle"></i> ビジネス英語コース（※ビジネス英語コース利用者は、1人部屋のみのご利用となります）</h3>
+					<h3 class="top30 point"><i class="fa fa-check-circle"></i> ビジネス英語８レッスンコース（※ビジネス英語コース利用者は、1人部屋のみのご利用となります）</h3>
 
 <div class="table-responsive">
 	<table class="table">
@@ -270,41 +270,31 @@ $school_name ="CEBU AMERICAN ENGLISH ACADEMY";
 
 			<tr class="">
 				<td>１人部屋</td>
-				<td>74,000</td>
-				<td>96,000</td>
-				<td>157,000</td>
-				<td>309,000</td>
-				<td>461,000</td>
-				<td>613,000</td>
-				<td>917,000</td>
+				<td>95,000</td>
+				<td>181,000</td>
+				<td>300,000</td>
+				<td>588,000</td>
+				<td>864,000</td>
+				<td>1,128,000</td>
+				<td>1,632,000</td>
 			</tr>
 
 			<tr class="active">
-				<td>２人部屋</td>
-				<td>74,000</td>
-				<td>96,000</td>
-				<td>157,000</td>
-				<td>309,000</td>
-				<td>461,000</td>
-				<td>613,000</td>
-				<td>917,000</td>
+				<td>エコノミー</td>
+				<td>92,500</td>
+				<td>176,000</td>
+				<td>290,000</td>
+				<td>568,000</td>
+				<td>834,000</td>
+				<td>1,088,000</td>
+				<td>1,572,000</td>
 			</tr>
 
-			<tr class="">
-				<td>３人部屋</td>
-				<td>74,000</td>
-				<td>96,000</td>
-				<td>157,000</td>
-				<td>309,000</td>
-				<td>461,000</td>
-				<td>613,000</td>
-				<td>917,000</td>
-			</tr>
 		</tbody>
 	</table>
 </div>
 
-					<h3 class="top30 point"><i class="fa fa-check-circle"></i> 医療プロフェッショナル英語コース（※医療プロフェッショナル英語コース利用者は、1人部屋のみのご利用となります）</h3>
+					<h3 class="top30 point"><i class="fa fa-check-circle"></i> ビジネス英語６レッスンコース（※ビジネス英語コース利用者は、1人部屋のみのご利用となります）</h3>
 
 <div class="table-responsive">
 	<table class="table">
@@ -322,36 +312,110 @@ $school_name ="CEBU AMERICAN ENGLISH ACADEMY";
 
 			<tr class="">
 				<td>１人部屋</td>
-				<td>74,000</td>
-				<td>96,000</td>
-				<td>157,000</td>
-				<td>309,000</td>
-				<td>461,000</td>
-				<td>613,000</td>
-				<td>917,000</td>
+				<td>92,000</td>
+				<td>175,000</td>
+				<td>288,000</td>
+				<td>564,000</td>
+				<td>828,000</td>
+				<td>1,080,000</td>
+				<td>1,560,000</td>
 			</tr>
 
 			<tr class="active">
-				<td>２人部屋</td>
-				<td>74,000</td>
-				<td>96,000</td>
-				<td>157,000</td>
-				<td>309,000</td>
-				<td>461,000</td>
-				<td>613,000</td>
-				<td>917,000</td>
+				<td>エコノミー</td>
+				<td>89,500</td>
+				<td>170,000</td>
+				<td>278,000</td>
+				<td>544,000</td>
+				<td>798,000</td>
+				<td>1,040,000</td>
+				<td>1,500,000</td>
+			</tr>
+
+		</tbody>
+	</table>
+</div>
+
+					<h3 class="top30 point"><i class="fa fa-check-circle"></i> 医療プロフェッショナル英語８レッスンコース（※医療プロフェッショナル英語コース利用者は、1人部屋のみのご利用となります）</h3>
+
+<div class="table-responsive">
+	<table class="table">
+		<tbody>
+			<tr class="bg-skyblue white">
+				<td>単位：円</td>
+				<td>１週間</td>
+				<td>２週間</td>
+				<td>４週間</td>
+				<td>８週間</td>
+				<td>１２週間</td>
+				<td>１６週間</td>
+				<td>２４週間</td>
 			</tr>
 
 			<tr class="">
-				<td>３人部屋</td>
-				<td>74,000</td>
-				<td>96,000</td>
-				<td>157,000</td>
-				<td>309,000</td>
-				<td>461,000</td>
-				<td>613,000</td>
-				<td>917,000</td>
+				<td>１人部屋</td>
+				<td>97,000</td>
+				<td>185,000</td>
+				<td>308,000</td>
+				<td>604,000</td>
+				<td>888,000</td>
+				<td>1,160,000</td>
+				<td>1,680,000</td>
 			</tr>
+
+			<tr class="active">
+				<td>エコノミー</td>
+				<td>94,500</td>
+				<td>180,000</td>
+				<td>298,000</td>
+				<td>584,000</td>
+				<td>858,000</td>
+				<td>1,120,000</td>
+				<td>1,620,000</td>
+			</tr>
+
+		</tbody>
+	</table>
+</div>
+
+					<h3 class="top30 point"><i class="fa fa-check-circle"></i> 医療プロフェッショナル英語６レッスンコース（※医療プロフェッショナル英語コース利用者は、1人部屋のみのご利用となります）</h3>
+
+<div class="table-responsive">
+	<table class="table">
+		<tbody>
+			<tr class="bg-skyblue white">
+				<td>単位：円</td>
+				<td>１週間</td>
+				<td>２週間</td>
+				<td>４週間</td>
+				<td>８週間</td>
+				<td>１２週間</td>
+				<td>１６週間</td>
+				<td>２４週間</td>
+			</tr>
+
+			<tr class="">
+				<td>１人部屋</td>
+				<td>94,000</td>
+				<td>179,000</td>
+				<td>296,000</td>
+				<td>580,000</td>
+				<td>852,000</td>
+				<td>1,112,000</td>
+				<td>1,608,000</td>
+			</tr>
+
+			<tr class="active">
+				<td>エコノミー</td>
+				<td>91,500</td>
+				<td>174,000</td>
+				<td>286,000</td>
+				<td>560,000</td>
+				<td>822,000</td>
+				<td>1,072,000</td>
+				<td>1,548,000</td>
+			</tr>
+
 		</tbody>
 	</table>
 </div>
@@ -365,45 +429,29 @@ $school_name ="CEBU AMERICAN ENGLISH ACADEMY";
 				<td>単位：円</td>
 				<td>１週間</td>
 				<td>２週間</td>
+				<td>３週間</td>
 				<td>４週間</td>
 				<td>８週間</td>
-				<td>１２週間</td>
-				<td>１６週間</td>
-				<td>２４週間</td>
 			</tr>
 
 			<tr class="">
-				<td>１人部屋</td>
-				<td>74,000</td>
-				<td>96,000</td>
-				<td>157,000</td>
-				<td>309,000</td>
-				<td>461,000</td>
-				<td>613,000</td>
-				<td>917,000</td>
+				<td>８レッスン</td>
+				<td>73,000</td>
+				<td>132,000</td>
+				<td>186,000</td>
+				<td>224,000</td>
+				<td>442,000</td>
 			</tr>
 
 			<tr class="active">
-				<td>２人部屋</td>
-				<td>74,000</td>
-				<td>96,000</td>
-				<td>157,000</td>
-				<td>309,000</td>
-				<td>461,000</td>
-				<td>613,000</td>
-				<td>917,000</td>
+				<td>６レッスン</td>
+				<td>70,000</td>
+				<td>126,000</td>
+				<td>177,000</td>
+				<td>212,000</td>
+				<td>420,000</td>
 			</tr>
-
-			<tr class="">
-				<td>３人部屋</td>
-				<td>74,000</td>
-				<td>96,000</td>
-				<td>157,000</td>
-				<td>309,000</td>
-				<td>461,000</td>
-				<td>613,000</td>
-				<td>917,000</td>
-			</tr>
+			
 		</tbody>
 	</table>
 </div>
@@ -417,45 +465,29 @@ $school_name ="CEBU AMERICAN ENGLISH ACADEMY";
 				<td>単位：円</td>
 				<td>１週間</td>
 				<td>２週間</td>
+				<td>３週間</td>
 				<td>４週間</td>
 				<td>８週間</td>
-				<td>１２週間</td>
-				<td>１６週間</td>
-				<td>２４週間</td>
 			</tr>
 
 			<tr class="">
-				<td>１人部屋</td>
-				<td>74,000</td>
-				<td>96,000</td>
-				<td>157,000</td>
-				<td>309,000</td>
-				<td>461,000</td>
-				<td>613,000</td>
-				<td>917,000</td>
+				<td>８レッスン</td>
+				<td>102,000</td>
+				<td>195,400</td>
+				<td>264,600</td>
+				<td>328,800</td>
+				<td>645,600</td>
 			</tr>
 
 			<tr class="active">
-				<td>２人部屋</td>
-				<td>74,000</td>
-				<td>96,000</td>
-				<td>157,000</td>
-				<td>309,000</td>
-				<td>461,000</td>
-				<td>613,000</td>
-				<td>917,000</td>
+				<td>６レッスン</td>
+				<td>99,200</td>
+				<td>189,400</td>
+				<td>255,600</td>
+				<td>316,800</td>
+				<td>621,600</td>
 			</tr>
 
-			<tr class="">
-				<td>３人部屋</td>
-				<td>74,000</td>
-				<td>96,000</td>
-				<td>157,000</td>
-				<td>309,000</td>
-				<td>461,000</td>
-				<td>613,000</td>
-				<td>917,000</td>
-			</tr>
 		</tbody>
 	</table>
 </div>
@@ -469,44 +501,27 @@ $school_name ="CEBU AMERICAN ENGLISH ACADEMY";
 				<td>単位：円</td>
 				<td>１週間</td>
 				<td>２週間</td>
+				<td>３週間</td>
 				<td>４週間</td>
 				<td>８週間</td>
-				<td>１２週間</td>
-				<td>１６週間</td>
-				<td>２４週間</td>
 			</tr>
 
 			<tr class="">
-				<td>１人部屋</td>
-				<td>74,000</td>
-				<td>96,000</td>
-				<td>157,000</td>
-				<td>309,000</td>
-				<td>461,000</td>
-				<td>613,000</td>
-				<td>917,000</td>
+				<td>８レッスン</td>
+				<td>177,200</td>
+				<td>336,400</td>
+				<td>447,600</td>
+				<td>548,800</td>
+				<td>1,073,600</td>
 			</tr>
 
 			<tr class="active">
-				<td>２人部屋</td>
-				<td>74,000</td>
-				<td>96,000</td>
-				<td>157,000</td>
-				<td>309,000</td>
-				<td>461,000</td>
-				<td>613,000</td>
-				<td>917,000</td>
-			</tr>
-
-			<tr class="">
-				<td>３人部屋</td>
-				<td>74,000</td>
-				<td>96,000</td>
-				<td>157,000</td>
-				<td>309,000</td>
-				<td>461,000</td>
-				<td>613,000</td>
-				<td>917,000</td>
+				<td>６レッスン</td>
+				<td>171,200</td>
+				<td>324,400</td>
+				<td>429,600</td>
+				<td>524,800</td>
+				<td>1,025,600</td>
 			</tr>
 		</tbody>
 	</table>

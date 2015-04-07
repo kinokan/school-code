@@ -433,6 +433,7 @@ PhilinterのTOEICコースはTOEICの点数アップを目標として、優秀�
 	</table>
 </div>
 
+<p>メモ　↓ここからコース名が一致しない。見てるソースが違うのかも。<br />一度チェックしてほしい</p>
 <h3 class="top30 point"><i class="fa fa-check-circle"></i> Foundation Businessコース：マンツーマン（45分×4）、グループ（45分×3）、オプション（45分×1）</h3>
 
 <div class="table-responsive">
